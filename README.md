@@ -6,7 +6,7 @@ Warrenty for TiltEm: TiltEm's surface effect can only be achieved when the plane
 Thus, I need to manually add inverRotAltitudeThreshold to most bodies, starting from Jupiter for basis test.
 Adding TiltZ may cause camera to turn when you are passing inverRotAltitudeThreshold (but sometimes not?) Experimental.<br>
 Current state: mean orbital elements for main 9 bodies (Mercury to Pluto) has been done. - 2021/10/31<br>
-A thing: I may ban vesta from basic RSS since there are another 2 500km-size rocks (Pallas & Hygiea) in asteroid belt.
-Ceres is okay since Ceres is much larger (900km, and able to reach hydrostatic equilibrium, well-defined as dwarf planet.
-And Ceres fit in much better than Vesta if you look perpendicular to solar system plane, right in the good place between Mars and Jupiter.<br>
+Version 1 with basic tilts and corrections of satelites' orbit plane (not correct position, since average method is not very useful for satelites which suffer from precession making its argument of periapsis shaking heavily) has been down.
+Note tha Ceres fit in much better than Vesta if you look perpendicular to solar system plane, right in the good place between Mars and Jupiter.
+And it is much bigger. However, for compatibility with other mods, currently I may not delete Vesta.<br>
 Minor edits: Edited orbit map planets color (for example, lighten Mercury, Earth, Venus orbit)
